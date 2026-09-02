@@ -1,0 +1,11 @@
+PRESENTACIÓN — ENTREGA DE ÚTILES
+
+Abra index.html en un navegador.
+
+Controles:
+- Flechas izquierda/derecha, barra espaciadora o botones para avanzar.
+- Deslice horizontalmente en celulares y tabletas.
+- Botón ⛶ para pantalla completa.
+- En la diapositiva de autorización, “Imprimir ficha” abre el diálogo de impresión.
+
+Contenido preparado para el Centro Educativo Santo Domingo Savio.
